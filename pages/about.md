@@ -4,13 +4,13 @@ title: About Me
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/all-about-me.png
 published: true
 tags: null
 description: null
 show: true
 ---
-![](../uploads/img_7411.jpg)
+![]()
 
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
 
