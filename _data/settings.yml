@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Your name
 header_feature_image: ../uploads/type-hype-banner.png
 bannerheight: 40vmax
 logo: ../uploads/blue-playful-pop-of-color-food-_-drink-logo.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/apple-touch-icon.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
