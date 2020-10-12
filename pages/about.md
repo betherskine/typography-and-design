@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ⤴
+title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/about.png
+header_feature_image: ../uploads/about-me.png
 published: true
 tags: null
 description: null
