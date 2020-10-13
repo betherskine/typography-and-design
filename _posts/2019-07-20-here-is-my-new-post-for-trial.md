@@ -9,11 +9,7 @@ tags:
   - Journalism
   - Culture
 ---
-
-
 In efforts to provide some chronologicity to this blog, I thought I would start at the beginning of my love affair with magazines. *Vogue*, *Harper’s Bazaar*, *ELLE* and *Marie Claire* were what I considered to be the big four. Their pages were flooded with everything I wanted to be. Successful women wearing beautiful outfits that I would try to recreate from my mums (very basic) wardrobe, pictures of runway shows that resembled that of aliens landing on Earth- it was all so magical to me. This blog post will be looking at the relationship between magazine logos and their brand persona.
-
-
 
 *`VOGUE`* 
 
@@ -23,7 +19,7 @@ In efforts to provide some chronologicity to this blog, I thought I would start 
 
 Each *Vogue* cover typically features three varied fonts; the masthead font, a bold, coloured, sans-serif article title font, and a neutral, serif font that is used for sub-headings.
 
-`Harper's Bazaar`
+`HARPER'S BAZAAR`
 
 Similarly to *Vogue*, *Harper’s Bazaar* also uses a variation of the **Didone** typeface. The logo is very impactful, and is instantly recognisable, exuding elegance which reflects the brand beautifully due to its highbrow nature.
 
