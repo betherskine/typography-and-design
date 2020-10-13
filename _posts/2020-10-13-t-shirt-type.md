@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trendy Typography?
+title: Trendy Typography or Ignorance?
 date: 2020-10-13T11:17:59.834Z
 header_feature_image: ../uploads/gothic.jpg
 comments: true
