@@ -39,3 +39,5 @@ The TypeHype logo is minimalistic, which is reflected in the colours chosen. The
 While the lilac Pastel hues are very on- trend; An evolved, more adult take on millennial pink, ultra violet was crowned Pantone's colour of 2018 so the colour is perfect for the aesthetic blogs aesthetic. 
 
 ![](../uploads/screenshot-2020-10-13-at-09.29.15.png)
+
+I will be updating the blog regularly, analysing typography in fashion through the use of print, digital, branding, editorial and advertising.
