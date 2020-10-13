@@ -6,7 +6,7 @@ header_feature_image: ../uploads/type-hype-banner.png
 bannerheight: 40vmax
 logo: ../uploads/blue-playful-pop-of-color-food-_-drink-logo.png
 favicon: ../uploads/apple-touch-icon.png
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
 items: []
