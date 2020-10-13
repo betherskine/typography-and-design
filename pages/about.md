@@ -10,12 +10,32 @@ tags: null
 description: null
 show: true
 ---
-![]()
+My name is Beth, I’m a second-year student at Oxford Brookes University studying journalism, media and publishing. I have decided to dedicate this blog to typography within the fashion industry.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+I grew up collecting magazines, I started with *Vogue* and *ELLE*, carrying the latest issues everywhere with me. I would turn each page entirely enchanted by the beautiful colours- marvelling at how they came together in the composition of the pages and editorials.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+However, I matured and so did my choice of magazines. Now, I carry an array, often clutching the latest issue of *DAZED*, *ID*, *The Gentlewoman*, and *Cabana*.
 
-This file is saved inside the *pages* folder and is saved as *about.md* . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+![](../uploads/charisse-kenion-8zsmlyaaufg-unsplash.jpg)
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+There is a direct correlation between my creativity as an individual and how widely I am reading. Fred Davis, a culture analyst and author, described fashion as polycentric, polymorphous and pluralistic; this can also be said for the type design industry. The two realms share vast amounts of common ground, which I am eager to explore further in this blog.
+
+
+
+The TypeHype logo was inspired by DAZED magazine. I utilised a plain- no nonsense font called ‘Horizon’ due to its clean looking, futuristic sans serif typeface. 
+
+![](../uploads/blue-playful-pop-of-color-food-_-drink-logo.png)
+
+Similarly to the DAZED magazine logo, TypeHype has a futuristic minimalist feel, which can be reflected within current fashion trends.
+
+![](../uploads/flaunter-2kbjy_7c7to-unsplash.jpg)
+
+
+
+According to Tom Wysocki, Typefaces are a major visual strategy for a text’s composers to signal the genre into which the text is to fit. In saying this, in the TypeHype logo, the use of Horizon reflects the content of the blog in its reporting of on- trend typography.
+
+The TypeHype logo is minimalistic, which is reflected in the colours chosen. The black is bold, as to not detract the reader from anything else. While the lilac Pastel hues are very on- trend; An evolved, more adult take on millennial pink, ultra violet was crowned Pantone's colour of 2018 so the colour is perfect due to the aesthetic of the blog. 
+
+![](../uploads/screenshot-2020-10-13-at-09.29.21.png)
+
+![](../uploads/screenshot-2020-10-13-at-09.29.15.png)
