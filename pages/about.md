@@ -24,7 +24,7 @@ There is a direct correlation between my creativity as an individual and how wid
 
 The TypeHype logo was inspired by DAZED magazine. I utilised a plain- no nonsense font called ‘Horizon’ due to its clean looking, futuristic sans serif typeface. 
 
-![](../uploads/blue-playful-pop-of-color-food-_-drink-logo.png)
+![](../uploads/modern-holographic-scrapbook-fashion-brand-guidelines-presentation-2.png)
 
 Similarly to the DAZED magazine logo, TypeHype has a futuristic minimalist feel, which can be reflected within current fashion trends.
 
