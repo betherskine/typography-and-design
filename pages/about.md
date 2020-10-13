@@ -12,6 +12,8 @@ show: true
 ---
 My name is Beth, I’m a second-year student at Oxford Brookes University studying journalism, media and publishing. I have decided to dedicate this blog to typography within the fashion industry.
 
+![](../uploads/img_7411.jpg)
+
 I grew up collecting magazines, I started with *Vogue* and *ELLE*, carrying the latest issues everywhere with me. I would turn each page entirely enchanted by the beautiful colours- marvelling at how they came together in the composition of the pages and editorials.
 
 However, I matured and so did my choice of magazines. Now, I carry an array, often clutching the latest issue of *DAZED*, *ID*, *The Gentlewoman*, and *Cabana*.
