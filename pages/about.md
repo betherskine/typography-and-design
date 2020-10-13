@@ -20,8 +20,6 @@ However, I matured and so did my choice of magazines. Now, I carry an array, oft
 
 There is a direct correlation between my creativity as an individual and how widely I am reading. Fred Davis, a culture analyst and author, described fashion as polycentric, polymorphous and pluralistic; this can also be said for the type design industry. The two realms share vast amounts of common ground, which I am eager to explore further in this blog.
 
-
-
 The TypeHype logo was inspired by DAZED magazine. I utilised a plain- no nonsense font called ‘Horizon’ due to its clean looking, futuristic sans serif typeface. 
 
 ![](../uploads/blue-playful-pop-of-color-food-_-drink-logo.png)
@@ -30,12 +28,12 @@ Similarly to the DAZED magazine logo, TypeHype has a futuristic minimalist feel,
 
 ![](../uploads/flaunter-2kbjy_7c7to-unsplash.jpg)
 
-
-
 According to Tom Wysocki, Typefaces are a major visual strategy for a text’s composers to signal the genre into which the text is to fit. In saying this, in the TypeHype logo, the use of Horizon reflects the content of the blog in its reporting of on- trend typography.
 
-The TypeHype logo is minimalistic, which is reflected in the colours chosen. The black is bold, as to not detract the reader from anything else. While the lilac Pastel hues are very on- trend; An evolved, more adult take on millennial pink, ultra violet was crowned Pantone's colour of 2018 so the colour is perfect due to the aesthetic of the blog. 
+The TypeHype logo is minimalistic, which is reflected in the colours chosen. The black is bold, as to not detract the reader from anything else. 
 
 ![](../uploads/screenshot-2020-10-13-at-09.29.21.png)
+
+While the lilac Pastel hues are very on- trend; An evolved, more adult take on millennial pink, ultra violet was crowned Pantone's colour of 2018 so the colour is perfect for the aesthetic blogs aesthetic. 
 
 ![](../uploads/screenshot-2020-10-13-at-09.29.15.png)
