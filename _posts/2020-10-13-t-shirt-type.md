@@ -2,13 +2,12 @@
 layout: post
 title: Trendy Typography?
 date: 2020-10-13T11:17:59.834Z
+header_feature_image: ../uploads/gothic.jpg
 comments: true
 tags:
   - Art
 ---
 On- trend or potential ignorance and oversaturation? You decide. 
-
-
 
 ***`1. CYRILLIC SCRIPT:`***
 
@@ -30,6 +29,6 @@ Playful and scribbles and signatures can be seen on designers from *Alexander Mc
 
 Palm Angels, Vetements, and Kanye West have taken to using gothic style letters to reference rap music and further enhance clothing collections.
 
-![](../uploads/gothic.jpg)
+![](../uploads/pablo.jpg)
 
 The downside to any aesthetic is oversaturation, is when things become so ubiquitous their meaning is lost. How many wearing *Pablo* shirts know they are borrowing a style from Hispanic LA gangs, how many wearing Cyrillic printed fonts know the soviet heritage behind the aesthetic?
