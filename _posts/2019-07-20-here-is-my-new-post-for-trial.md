@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing the Icons
-date: 2020-06-24 17:50
+date: 2020-10-06T16:50:00.000Z
 header_feature_image: ../uploads/magazines.jpg
 caption: ""
 comments: true
