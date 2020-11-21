@@ -9,4 +9,6 @@ favicon: ../uploads/apple-touch-icon.png
 gridlayout: true
 fixednavbar: false
 upzoom: true
-items: []
+items:
+  - name: "About me "
+    siteurl: /About me
