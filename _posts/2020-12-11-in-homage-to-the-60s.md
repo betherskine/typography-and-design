@@ -9,17 +9,11 @@ In 2018, French fashion house Celine revealed a new logo inspired by the brands 
 
 Celine revealed its new logo on Instagram, also deleting all previous Instagram posts. Celine has dropped the accented ‘E’ from its design, which has aims to ‘enable a simplified and more balanced proportion, evoking the Celine collections of the 1960’s. 
 
- 
-
-# ***`Analysis of the Typeface`***
+***`Analysis of the Typeface`***
 
  The logo is still bold, in capitals, with a sans-serif typeface. However, the letters are closer together which creates a more tightened effect. 
 
- 
-
 ![](../uploads/celine.jpg)
-
- 
 
 Hedi Slimane is the creative director responsible for the rebranding of Celine. Prior to his position at Celine, Slimane joined Yves Saint Laurent, where he rebranded the fashion house to Saint Laurent, rather than its original Yves Saint Laurent. 
 
