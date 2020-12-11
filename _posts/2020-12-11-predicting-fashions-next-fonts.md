@@ -2,6 +2,7 @@
 layout: post
 title: Predicting Fashions Next Fonts
 date: 2020-12-01T14:01:29.249Z
+header_feature_image: ../uploads/sneeze.jpg
 comments: true
 ---
 Typography is the main design element that can define and redefine a fashion brand. Typeface provides a word, but can also imply a feeling, time, place and attitude. Twenty-first century designers can often feel like everything has been done before, so where will they next look for inspiration, what will be the next big thing for fashion? 
