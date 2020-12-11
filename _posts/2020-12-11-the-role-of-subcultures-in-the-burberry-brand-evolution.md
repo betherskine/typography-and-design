@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Role of Subcultures in the Burberry Brand Evolution
+title: The Role of Subcultures Burberry's Brand Evolution
 date: 2020-12-07T12:50:38.475Z
 header_feature_image: ../uploads/monogram.jpg
 comments: true
