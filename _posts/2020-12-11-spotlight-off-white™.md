@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spotlight: OFF-WHITE™"
-date: 2020-12-04T15:11:59.907Z
+date: 2020-12-08T15:22:27.307Z
 header_feature_image: ../uploads/virgil.jpg
 comments: true
 ---
