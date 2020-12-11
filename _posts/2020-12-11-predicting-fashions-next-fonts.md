@@ -33,11 +33,9 @@ Phase 2 was heavily involved with the music scene, and inspired many rap and gri
 
 ![](../uploads/phase-2.png)
 
-![](../uploads/dizzie.jpg)
-
 Bubble letters became more refined and mainstream, finding their way into the fashion consumer market, with the likes of SNEEZE and POPEYE championing the rounded letters. 
 
-![](../uploads/sneeze.jpg)
+![](../uploads/dizzie.jpg)
 
 ***`BAD HANDWRITING`***
 
