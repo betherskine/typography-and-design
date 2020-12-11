@@ -17,9 +17,7 @@ Burberry is the epitome of English elegance, founded in 1856 its heritage lies i
 
 The directors of Burberry realised that the perception of the brand had to change, and so enlisted Peter Saville to rebrand the logo. 
 
-
-
-# ***`Analysing the Typography`*** 
+***`Analysing the Typography`***
 
 The new look is said to be inspired by Burberrys heritage in the form of a monogram Tisci found in archives from 1908. The monogram print is made up of T’s and B’s, which is a nod to Thomas Burberry. The colours are set in a bold palette of orange, brown and white. 
 
